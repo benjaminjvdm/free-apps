@@ -1,3 +1,5 @@
+# Applications
+
 Data Science:
 
     Automated Data Cleaning Tool: A simple web app or script that handles common data cleaning tasks (missing value imputation, outlier detection, type conversion).
@@ -9,8 +11,6 @@ Data Analysis:
     A/B Test Calculator: A web app that helps users determine the statistical significance of A/B test results.
     Customer Segmentation Tool: A simple app that allows users to segment their customer base using basic criteria.
     SQL Query Generator: A web app that helps users build SQL queries for common data analysis tasks.
-   
-
 
 Business Analysis:
 
